@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_config
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Configuration Data<br>
+Instrument Group Code: ADCP<br>
